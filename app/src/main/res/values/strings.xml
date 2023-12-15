@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quizapp</string>
+    <string name="next_question">next_question</string>
+    <string name="completed">COMPLETED</string>
+</resources>
